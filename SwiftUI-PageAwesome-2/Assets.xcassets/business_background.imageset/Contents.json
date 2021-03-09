@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "low-angle-view-of-modern-financial-skyscrapers-in-central-business-district--hong-kong-at-sunrise-955431124-1719951714ea42f29987d37c2edeeabb.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
